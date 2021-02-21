@@ -89,16 +89,10 @@
     <ClInclude Include="..\src\Yahtzee\GameState.h">
       <Filter>yahtzee</Filter>
     </ClInclude>
-    <ClInclude Include="..\src\Yahtzee\Generala.h">
-      <Filter>yahtzee</Filter>
-    </ClInclude>
     <ClInclude Include="..\src\Yahtzee\Histogram.h">
       <Filter>yahtzee</Filter>
     </ClInclude>
     <ClInclude Include="..\src\Yahtzee\PlayerConfiguration.h">
-      <Filter>yahtzee</Filter>
-    </ClInclude>
-    <ClInclude Include="..\src\Yahtzee\Rule.h">
       <Filter>yahtzee</Filter>
     </ClInclude>
     <ClInclude Include="..\src\Yahtzee\ScoreCalculator.h">
